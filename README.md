@@ -1,2 +1,3 @@
-# FlavourFusion
-Flavour Fusion is a complete e-commerce site build with python for the Group project.
+# Resturant application
+
+This is the resturant application that use sqlite database and store info, reservation and other data in the database.
